@@ -1,0 +1,1 @@
+A weather app that displays the current weather using the OpenWeatherMap API
